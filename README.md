@@ -1,4 +1,5 @@
 # ndshop-design
+parent project is [ndshop](https://github.com/dounine/ndshop)
 
 #### customer
 ***
