@@ -5,3 +5,13 @@
 [1111/141601:INFO:CONSOLE(0)] "XMLHttpRequest cannot load http://www.cutterman.cn/rank/submit. Origin null is not allowed by Access-Control-Allow-Origin.," source: (0)
 [1114/142529:WARNING:dns_config_service_win.cc(520)] Failed to read DnsHosts.
 [1114/142530:INFO:CONSOLE(0)] "app router initialize," source: file:///C:/Users/bjike/AppData/Roaming/Adobe/CEPServiceManager4/extensions/cutterman/js/cutterman.js(10)
+[1116/134526:WARNING:dns_config_service_win.cc(520)] Failed to read DnsHosts.
+[1116/134527:INFO:CONSOLE(0)] "app router initialize," source: file:///C:/Users/bjike/AppData/Roaming/Adobe/CEPServiceManager4/extensions/cutterman/js/cutterman.js(10)
+[1116/134530:INFO:CONSOLE(0)] "PNG," source: file:///C:/Users/bjike/AppData/Roaming/Adobe/CEPServiceManager4/extensions/cutterman/js/cutterman.js(516)
+[1116/134530:INFO:CONSOLE(0)] "{"samefile":"cover","androidCurrentDpi":"不设置","iosCurrentDpi":"不设置","androidDpi":{"XXXHDPI":"1440","XXHDPI":"1080","XHDPI":"720","HDPI":"540","MDPI":"360"},"iosDpi":{"3X":"960","2X":"640","1X":"320"},"format":"PNG-24","output":"/g/%E5%95%86%E5%9F%8E/%E5%95%86%E5%AE%B6%E7%89%88/cut/%E8%A3%85%E4%BF%AE%E5%BA%97%E9%93%BA","merge":false,"target":["web"],"bounds":[0,0],"quality":"PNG-24"}," source: file:///C:/Users/bjike/AppData/Roaming/Adobe/CEPServiceManager4/extensions/cutterman/js/cutterman.js(523)
+[1116/134532:INFO:CONSOLE(0)] "XMLHttpRequest cannot load http://www.cutterman.cn/rank/submit. Origin null is not allowed by Access-Control-Allow-Origin.," source: (0)
+[1116/163815:WARNING:dns_config_service_win.cc(520)] Failed to read DnsHosts.
+[1116/163815:INFO:CONSOLE(0)] "app router initialize," source: file:///C:/Users/bjike/AppData/Roaming/Adobe/CEPServiceManager4/extensions/cutterman/js/cutterman.js(10)
+[1116/163821:INFO:CONSOLE(0)] "JPEG," source: file:///C:/Users/bjike/AppData/Roaming/Adobe/CEPServiceManager4/extensions/cutterman/js/cutterman.js(516)
+[1116/163821:INFO:CONSOLE(0)] "{"samefile":"cover","androidCurrentDpi":"不设置","iosCurrentDpi":"不设置","androidDpi":{"XXXHDPI":"1440","XXHDPI":"1080","XHDPI":"720","HDPI":"540","MDPI":"360"},"iosDpi":{"3X":"960","2X":"640","1X":"320"},"format":"JPEG","output":"/g/%E5%95%86%E5%9F%8E/%E5%95%86%E5%AE%B6%E7%89%88/cut/%E8%A3%85%E4%BF%AE%E5%BA%97%E9%93%BA","merge":false,"target":["web"],"bounds":[0,0],"quality":60}," source: file:///C:/Users/bjike/AppData/Roaming/Adobe/CEPServiceManager4/extensions/cutterman/js/cutterman.js(523)
+[1116/163823:INFO:CONSOLE(0)] "XMLHttpRequest cannot load http://www.cutterman.cn/rank/submit. Origin null is not allowed by Access-Control-Allow-Origin.," source: (0)
